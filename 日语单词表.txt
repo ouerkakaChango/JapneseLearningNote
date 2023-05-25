@@ -39,7 +39,7 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 業界　gyoukai
 変える　ka eru
 帰る kae ru
-勢いで　ikio ide
+勢い　ikioi
 模索　mosaku
 詳細　shousai
 
@@ -67,7 +67,27 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 揺らす　yurasu（摇晃 v.）
 揺らして　(正在摇晃)
 
-過ぎる　（过去）
+過(su)ぎる　（过去）
+実写映画　ji-xtu-shya eiga（漫改真人片）
+映像　eizou
+自社企画開發　jisha kikaku　kaihatsu
+活劇座　katsugeki-za
+
+演出　enshutsu
+モーションキャプチャー (motion capture)
+運営　unnei
+委員会　iinkai
+⽤いて mochiite
+
+多彩　tasai
+感じ　kanji
+⽩組 shirogumi
+創業　sougyo
+以降 iko
+
+拡大　kakudai
+続ける　输入法拼写：tsudukeru
+
 
 "る" 和 "た" 都是日语动词的词尾，表示不同的时态和语气。具体来说：
 - 用于现在时态的话，词尾应为 "る"，例如："食べる"（吃），"行く"（去）等。
