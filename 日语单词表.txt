@@ -132,6 +132,12 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 行う okonau(进行)
 人材　jinzai
 
+育成 ikusei
+地域　chiiki
+根ざした nezashita
+地方　chiho
+創生 sousei
+
 "る" 和 "た" 都是日语动词的词尾，表示不同的时态和语气。具体来说：
 - 用于现在时态的话，词尾应为 "る"，例如："食べる"（吃），"行く"（去）等。
 - 在过去时态中，"る" 需要变为 "た"。例如："食べた"（吃了），"行った"（去了）等。
