@@ -138,6 +138,45 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 地方　chiho
 創生 sousei
 
+机　tsukue
+学校　gaxtsu kou
+図書館　toshoukann
+教師　kyou shi
+教室　kyou shi tsu
+
+上に　ue ni
+椅子　i su
+小野さん　ono sann
+家に　ie ni
+大学　dai gaku
+
+明日　ashita
+休み　yasu mi
+走る　hashi ru
+飛ぶ　to bu
+歩く　aru ku
+
+疲れる　tsuka re ru
+優れる　sugu re ru(优秀)
+起きる　okiru
+食べる　taberu
+知る　shiru
+
+要る　iru
+喋る　shaberu
+入る　hairu
+切る　kiru
+滑る　suberu
+
+来る　kuru
+英語　eigo
+好き　suki（喜欢）
+授業　ju gyo
+始めます　haji me masu
+
+来ます　ki masu
+
+
 "る" 和 "た" 都是日语动词的词尾，表示不同的时态和语气。具体来说：
 - 用于现在时态的话，词尾应为 "る"，例如："食べる"（吃），"行く"（去）等。
 - 在过去时态中，"る" 需要变为 "た"。例如："食べた"（吃了），"行った"（去了）等。
