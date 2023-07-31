@@ -175,7 +175,79 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 始めます　haji me masu
 
 来ます　ki masu
+公園　koue
+新聞紙 shinn bunn shi
+飛行機　hi kou ki
+竹　take
 
+米　kome
+申込書　moushikomisho
+一枚　ichi mai
+//一冊　ichi satsu
+一冊　ixtu satsu
+
+毎晩　mai bann
+読みます　yo (读)
+喫茶店　kixtu sa tenn
+駅　eki (车站)
+長島　nagashima
+
+妹　imouto
+元気　gennki
+美味しい　oi
+機械　kikai
+便利　benn ri
+
+辛い　kara
+田舎　inaka(乡下)
+所/ところ　tokoro(场所)
+韓国語　kann koku go
+上手　jyouzu
+
+聞こえる　ki (听得见)
+見える　mi
+下手　heta
+得意　tokui (擅长)
+苦手　niga te
+
+歌　uta
+肉　niku
+怖い　kowa
+大通り　oodoori
+事故　jiko
+
+体育館　taiiku kann
+運動会　unn dou kai
+遅刻　chi koku
+寝坊　ne bo
+安い　yasu
+
+窓　mado（窗户）
+閉めます　shi （关）
+若い　waka (年轻)
+中国　chuu goku
+情報　jyo-u ho-u
+
+検索　kenn saku
+採用　sa-i yo-u
+利用　riyo
+担当者　tantosha
+様　sama
+
+注目　chu-u moku
+企業　ki gyo-u
+アカウント (account)
+作成　sakusei(创建)
+ログイン　(login)
+
+一覧　yichi rann
+
+
+
+//日本人为你讲解“あげる”“もらう”“くれる”的区别
+https://zhuanlan.zhihu.com/p/96981007
+
+どう　＝＝　いかが／如何　（怎么样）
 
 "る" 和 "た" 都是日语动词的词尾，表示不同的时态和语气。具体来说：
 - 用于现在时态的话，词尾应为 "る"，例如："食べる"（吃），"行く"（去）等。
