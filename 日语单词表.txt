@@ -267,11 +267,56 @@ xxx長　 xxx cho
 売店　bai tenn
 郵便局　yu-u binn kyoku
 病院　byo-u inn
+厳しい　kibi (严格)
+
+冷たい　tsume （高冷）
+京華大学　kyo ka dai gaku
+ 写真　sha shinn(照片)
+銀行　ginn kou
+後輩　ko-u hai
+
+渡辺　wata nabe 
+学長　gaku cho-u
+芸術　gei jutsu 
+三日　mi k-ka
+ギョーザ(音译：饺子)
+
+科目　kamoku
+哲学　tetsu gaku
+歴史　reki shi
+発表会　ha-xtsu pyo-u kai／ha p-pyo-u kai
+発音　hatsu onn
+
+会話　kai wa
+中国語　chu-u goku go
+辞書　ji sho
+試験　shi kenn
+美人　bi jinn
+
+声　koe
+声かける（打招呼）
+傘　kasa
+面白い　omo shiro i
+小説　sho-u setsu
+
+会議室　kai gi shitsu
+生活　sei katsu
+明日　ashita
+教科書　kyo-u ka sho
+少し　suko i
+
+速い　haya　i
+寮　ryo-u (宿舍)
+狭い　sema i
+安い　yasu i(便宜)
+不便　fu benn
+
+
 
 
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
 https://zhuanlan.zhihu.com/p/96981007
-
+わwa　おwo
 どう　＝＝　いかが／如何　（怎么样）
 
 "る" 和 "た" 都是日语动词的词尾，表示不同的时态和语气。具体来说：
@@ -294,3 +339,5 @@ https://zhuanlan.zhihu.com/p/96981007
 例如“本を読んでいます”（正在读书），”部屋を掃いてください”（请打扫房间）。
 而“てく”则表示动作正处于进行状态并且是逐渐进行的，一般用于抒发一些感慨或者述说某个过程发展的轨迹，
 例如“あの子は大きくなってく”（那个孩子在逐渐长大）。需要根据上下文来理解其具体含义。
+
+其实就跟すみません一个道理，比如我自己去日本朋友家，家里有没有人すみません，根据场景すみません无数意思坐电车到站了，你在后面让前面人让一下，すみません。掛ける也是但是这里的かける和常用汉字かける不是一回事，我问过日本人，只不过是做一件事或者环境中说かける他们都知道你说的是哪个かける
