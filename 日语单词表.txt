@@ -263,6 +263,10 @@ xxx長　 xxx cho
 心　kokoro
 奥さん　oku(太太)
 
+食堂　shoku dou
+売店　bai tenn
+郵便局　yu-u binn kyoku
+病院　byo-u inn
 
 
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
