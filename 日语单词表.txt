@@ -452,7 +452,64 @@ xxxと申します　mou（谦-自称）
 検索用　kenn saku you
 大きい　oo k i
 手洗い　te ara i
+うさぎ　（兔子）
+暑い　＝＝　熱い
 
+桜　sakura
+花　hana
+菊　kiku
+留守　rusu
+訪ねて　tazu（拜访）
+
+出ると　de
+お前様 o mae sama
+待　matsu
+考えて　kannga e te
+眼鏡　megane
+
+客　kyaku
+大人　otona
+喜び　yoroko bi
+向こう　mu(对面)
+閲覧室　etsu rann shitsu
+
+貸し出し　ka shi da shi
+黒い　kuro i
+低い　hiku
+女の子　onnna no ko(女孩子)
+凄い　sugo i(厉害的)
+
+技　waza
+病院　byou inn
+救急車　kyuu kyuu sha
+暗い　kura i
+朝寝　asa ne(早上睡，懒觉)
+
+朝寝坊　asa ne bou(懒觉人)
+時間割　ji kann wari
+選択　semm taku
+夕方　yuu gata(傍晚)
+割引　waribiki(折扣)
+
+自習　jishuu
+予習　yo shuu(预习)
+大変　taii henn
+変態　henntai
+時間　ji kann
+
+遣唐使　kenn tou shi
+新入生　shinn nyuu sei
+歓迎　kann gei
+全員　zenninn
+専門　sennmonn
+
+以下　i ka
+卒業　sotsu gyou(毕业)
+論文　ronn bunn
+株式 kabu shiki(股票)
+市場　shi jyou
+
+活動　katsu dou(活动，工作)
 
 
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
