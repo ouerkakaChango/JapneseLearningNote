@@ -175,7 +175,7 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 始めます　haji me masu
 
 来ます　ki masu
-公園　koue
+公園　kou enn
 新聞紙 shinn bunn shi
 飛行機　hi kou ki
 竹　take
@@ -501,7 +501,7 @@ xxxと申します　mou（谦-自称）
 新入生　shinn nyuu sei
 歓迎　kann gei
 全員　zenninn
-専門　sennmonn
+専門　senn monn
 
 以下　i ka
 卒業　sotsu gyou(毕业)
@@ -510,7 +510,46 @@ xxxと申します　mou（谦-自称）
 市場　shi jyou
 
 活動　katsu dou(活动，工作)
+交流　kou ryuu
+お知らせ　o shi ra se
+合コン　gou ko nn(联谊)
+場所　ba sho
 
+会館　kai kann
+階　kai
+集会室　shuu kai shitsu
+会費　kai hi
+会員　kai inn
+
+員　inn
+無料　mu ryou(免费)
+円　enn(日元，￥)
+蒸し　mu shi
+鑑賞　kann shou(鉴赏)
+
+サークル　(circle,社团)
+号　gou（杂志期刊号）
+経済　ke zai
+計算　ke sann
+香織　kaori
+
+鈴木　suzuki
+真一　shinnichi
+発行　ha kkou
+開催　kai sai（举办）
+会議　kai gi
+
+小会議室　shou kaigi shitsu 
+わたち　(我们)
+親切　shinn setsu
+下手　heta
+上手　jou zu 
+
+アクセント　(accent，口音)
+生活　sei katsu
+助詞　jyo shi
+女子　jyo shi
+漢字　kann ji
 
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
 https://zhuanlan.zhihu.com/p/96981007
@@ -519,3 +558,5 @@ https://zhuanlan.zhihu.com/p/96981007
 ky == 空気　読めない　== kuuki yomenai
 
 其实就跟すみません一个道理，比如我自己去日本朋友家，家里有没有人すみません，根据场景すみません无数意思坐电车到站了，你在后面让前面人让一下，すみません。掛ける也是但是这里的かける和常用汉字かける不是一回事，我问过日本人，只不过是做一件事或者环境中说かける他们都知道你说的是哪个かける
+
+「合コン（联谊）」是「合同コンパ」的简称。「コンパ」表示朋友、伙伴，来自德语的「Kompanie」，也表示公司聚会交际，是由英语的「company」而来，在明治时代，这就作为学生间的隐语而被开始使用。
