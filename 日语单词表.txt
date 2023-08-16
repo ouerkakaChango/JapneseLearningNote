@@ -577,6 +577,57 @@ xxxと申します　mou（谦-自称）
 
 積み重ね　tsu mi kasa ne(努力)
 日時　nichi ji
+言語　genn go
+積み重ね　tsumikasane
+お知らせ　(通知)
+
+館　kann
+活動　katsu dou
+発行　ha kkou
+開催　kai sai
+会議　kaigi
+
+助詞　jyo shi
+鍵　kagi(钥匙)
+遠い　to i
+近い　chika i
+耳が遠い　mimi ga to i(耳背)
+
+作家　sa kka
+サッカー　（足球）
+故郷　ko kyo-u
+五月蠅い　urusai(无路赛，吵死了)
+多い　o-o i
+
+少ない　suku na i 
+彼氏　kare shi
+鈴木　suzuki
+平仮名　hira　ga　na
+片仮名　kata　ka　na
+
+聞き取り　ki ki to ri(听写)
+書　sho
+大丈夫　dai jyo-u bu
+試験　shi kenn
+秘密　himitsu
+
+嵐　arashi
+都市　to shi
+不味い　mazu i(不好吃，糟糕的)
+暗い　kura i
+詰まらない　tsu maranai(无聊的)
+
+賑やか　nigi ya ka(热闹的)
+汚い　kitana i
+格好　k k-ko-u(样子)
+格好いい　ka k-ko-u i i(样子好的，帅的)
+相互学習　sougo gakushu-u
+
+翻訳　honn yaku(翻译，笔译)
+通訳　tsuu yaku（口译）
+本当に　honn to-u ni
+
+
 
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
 https://zhuanlan.zhihu.com/p/96981007
