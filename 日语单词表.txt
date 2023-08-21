@@ -464,7 +464,7 @@ xxxと申します　mou（谦-自称）
 出ると　de
 お前様 o mae sama
 待　matsu
-考えて　kannga e te
+考え　kannga e
 眼鏡　megane
 
 客　kyaku
@@ -591,7 +591,7 @@ xxxと申します　mou（谦-自称）
 鍵　kagi(钥匙)
 遠い　to i
 近い　chika i
-耳が遠い　mimi ga to i(耳背)
+耳が遠い　mimi ga to-o i(耳背)
 
 作家　sa kka
 サッカー　（足球）
@@ -626,9 +626,64 @@ xxxと申します　mou（谦-自称）
 翻訳　honn yaku(翻译，笔译)
 通訳　tsuu yaku（口译）
 本当に　honn to-u ni
+集会　shu-u kai
+香織　kaori
+
+専門　senn monn
+卒業　sotsu gyo
+鈴木　suzuki
+発行　ha k-ko-u
+交流　kou ryuu
+
+開催　kai sai
+会議　kai gi
+助詞　jyo shi
+良い　yo i
+一年間　ichi nenn kann
+
+交換　kou kann
+三保　mi ho
+男性　dann sei
+女性　jyo sei
+是非　zehi(务必，一定)
+
+健介　kenn suke
+涼しい　suzu shi i
+男の子　otoko no ko
+少ない　suku na i
+田中　ta naka
+
+佐藤　satou
+授業　ju gyo
+読解　do kkai
+学習　gaku shuu
+狭い　sema i
+
+長い　naga i
+薫　kaoru
+漫画　mann ga
+グラップラ　(grappler，格斗者)
+名前　na mae
+
+散歩　sann po
+絵画　kai ga
+生活　sei katsu
+活動　katsu dou
+忙しい　isoga shi i
+
+遠い　to-o i
+町　machi
+汚い　kitana i
+詰まらない（无聊）
+家　ie
+
+急げ　iso ge
+残念　zann nenn（可惜）
+窓　mado
+髪の毛　kami no ke(一根头发毛)
 
 
-
+商店街　shou tenn gai
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
 https://zhuanlan.zhihu.com/p/96981007
 わwa　おwo
