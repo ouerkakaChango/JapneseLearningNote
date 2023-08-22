@@ -683,6 +683,46 @@ xxxと申します　mou（谦-自称）
 髪の毛　kami no ke(一根头发毛)
 商店街　shou tenn gai
 
+自分　ji bunn
+気持ち　ki mo chi
+家　uchi/ie
+短い　mijika i
+俳優　ha-i yu-u(演员)
+
+男優　dann yuu
+女優　jyo yuu
+声優　sei yuu
+味　aji(味道)
+匂い　nioi(气味)
+
+値段　ne dann(价格)
+ラブ(love)
+質問　shitsu monn(提问)
+答え　kota e(回答)
+中学校　chu-u ga k-ko-u
+
+生活　sei katsu
+日記　ni k-ki
+最高　sai kou
+最低　sai tei
+最初　sai sho
+
+週間　shuu kann
+引っ越し　hi kko shi(搬家)
+色々　iroiro(各色各样)
+食べ物　ta be mono
+手続き　te tsudu ki(手续)
+
+買い物　ka i mono(购物)
+履修登録　ri shuu tou roku(选修登记，选课)
+注意　chuu i
+必要　hitsu you
+担任　tann ninn
+
+他　hoka(其他) == その他
+特に　toku ni(特别的)
+相棒　ai bou
+相　ai
 
 
 
