@@ -55,7 +55,7 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 目指す人 me za su hito(有志向的人)
 全て subete
 
-生(u)まれた 中文意思是 "出生"，指一个人在母体内成熟后自然产生、降生到这个世界上的过程。
+生まれた u（出生）
 風が
 原っぱ　hara xtu pa (原野)
 立　ta
@@ -733,7 +733,74 @@ xxxと申します　mou（谦-自称）
 
 点　tenn
 満点　mann tenn(满分)
+事情　ji jyou(情况，缘由)
+書店　sho tenn
+本屋　honn ya(书店，开书店的人)
 
+隣　tonari(旁边，隔壁)
+行く　i ku
+使う　tsuka u 使いする
+鳴る　na ru　鳴ります(发出声音)
+送る　oku ru 送ります
+
+来る　ku ru　来ます
+起きる　o ki ru
+洗う　ara u 洗います
+読む　yo mu 読みます(读，念)
+書く　ka mu 書きます
+
+切る　ki ru 切ります
+買う　ka u 買います
+見る　mi ru 見ます
+着る　ki ru 着ます
+食べる　食べます
+
+寝る　ne ru 寝ます
+する　します
+勉強　benn kyou
+勉強する　勉強します
+電話する　電話します
+
+飲む　飲みます
+ほとんど(几乎，差不多)
+毎日　mai nichi
+毎朝　mai asa
+毎晩　mai bann
+
+資料　shi ryou
+集めます　atsu me ma su(收集)
+普通　fu tsuu
+手紙　te gami(信)
+若者　waka mono(年轻人)
+
+携帯電話　kei tai denn wa
+怒る　oko ru
+勿論　mochi ronn(当然)
+降る　fu ru 降ります
+びら(花瓣)
+
+落ちます　o
+窓　mado
+開　a/hira　開けます　開(hira)きました　
+飯　meshi
+ご飯　go hann
+
+顔　kao
+独身　doku shinn
+雨　ame
+音楽　onn gaku
+運動場　unn dou jyou
+
+店　mise
+
+//#############
+一类连用：xxxいー＞xxxくて
+一类否定：xxxいー＞xxxくない(です)
+一类过去：xxxいー＞xxxかった(です)
+
+二类连用：xxxだー＞xxxで
+
+//##############
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
 https://zhuanlan.zhihu.com/p/96981007
 わwa　おwo
