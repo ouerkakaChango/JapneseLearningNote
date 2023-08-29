@@ -739,29 +739,7 @@ xxxと申します　mou（谦-自称）
 
 隣　tonari(旁边，隔壁)
 行く　i ku
-使う　tsuka u 使いする
-鳴る　na ru　鳴ります(发出声音)
-送る　oku ru 送ります
 
-来る　ku ru　来ます
-起きる　o ki ru
-洗う　ara u 洗います
-読む　yo mu 読みます(读，念)
-書く　ka mu 書きます
-
-切る　ki ru 切ります
-買う　ka u 買います
-見る　mi ru 見ます
-着る　ki ru 着ます
-食べる　食べます
-
-寝る　ne ru 寝ます
-する　します
-勉強　benn kyou
-勉強する　勉強します
-電話する　電話します
-
-飲む　飲みます
 ほとんど(几乎，差不多)
 毎日　mai nichi
 毎朝　mai asa
@@ -792,6 +770,28 @@ xxxと申します　mou（谦-自称）
 運動場　unn dou jyou
 
 店　mise
+読解　do kki
+学習　gaku shuu
+交換　kou kann
+科目　ka moku
+
+牛乳　gyuu nyuu
+薬　kusuri
+洗濯　senn taku(n.洗涤)
+選択　senn taku
+衣服　i fuku
+
+饅頭　mann jyuu
+豆乳　tou nyuu
+外　soto
+中　naka
+長　naga
+
+毎月　mai tsuki
+案内　ann nai(引导，向导)
+後で　ato de(之后)
+演劇　enn geki
+
 
 //#############
 一类连用：xxxいー＞xxxくて
@@ -799,8 +799,11 @@ xxxと申します　mou（谦-自称）
 一类过去：xxxいー＞xxxかった(です)
 
 二类连用：xxxだー＞xxxで
-
+二类否定：xxxだー＞xxxでは　ありません(过去式+でした)
+　　　　　　　　　xxxじゃ　ありません(过去式+でした)
+二类过去：xxxだー＞xxxだった
 //##############
+xxxに入る(进入xxx)
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
 https://zhuanlan.zhihu.com/p/96981007
 わwa　おwo
