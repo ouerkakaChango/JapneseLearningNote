@@ -230,7 +230,7 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 
 検索　kenn saku
 採用　sa-i yo-u
-利用　riyo
+利用　riyou
 担当者　tantosha
 様　sama
 
@@ -791,9 +791,51 @@ xxxと申します　mou（谦-自称）
 案内　ann nai(引导，向导)
 後で　ato de(之后)
 演劇　enn geki
+春　haru
 
+夏　natsu
+秋　aki
+冬 fuyu
+夕方　yu-u gata(傍晚)
+xxx頃　goro(大约xxx[时间])
 
+箸　hashi(筷子)
+私　watashi
+携帯　kei tai
+通信　tsuu shinn
+交通　ko-u tsu-u
+
+調査アンケート(调查问卷)
+結果　ke kka
+統計　tou kei
+処理　sho ri
+個人　ko jinn
+
+公表　kou hyou(公布)
+協力　kyou ryoku
+東西　tou zai(东西方向)
+社会　sha kai
+該当　gai tou(符合)
+
+項目　kou moku(项目)
+チェック(check，审核，打勾)
+性別　sei betsu
+所属　sho zoku
+xxxぐらい　(xxx左右)
+
+3時間ぐらい
+3時ごろ
+ラジオ(radio,收音机)
+借りる　ka
+置く　o
+
+乗る　no
+黒板　koku bann
+字　ji
+座る　suwa
+シンポジウム（symposium,研讨会）
 //#############
+形容词
 一类连用：xxxいー＞xxxくて
 一类否定：xxxいー＞xxxくない(です)
 一类过去：xxxいー＞xxxかった(です)
@@ -802,6 +844,13 @@ xxxと申します　mou（谦-自称）
 二类否定：xxxだー＞xxxでは　ありません(过去式+でした)
 　　　　　　　　　xxxじゃ　ありません(过去式+でした)
 二类过去：xxxだー＞xxxだった
+//##############
+https://zhuanlan.zhihu.com/p/505176551
+动词
+敬体肯定：ます
+敬体否定：ません
+简体肯定： （原型）
+简体否定： ない
 //##############
 xxxに入る(进入xxx)
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
