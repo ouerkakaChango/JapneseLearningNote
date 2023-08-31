@@ -796,7 +796,7 @@ xxxと申します　mou（谦-自称）
 夏　natsu
 秋　aki
 冬 fuyu
-夕方　yu-u gata(傍晚)
+夕方　yu-u gata(傍晚) 
 xxx頃　goro(大约xxx[时间])
 
 箸　hashi(筷子)
@@ -834,6 +834,35 @@ xxxぐらい　(xxx左右)
 字　ji
 座る　suwa
 シンポジウム（symposium,研讨会）
+
+参加　sann ka
+遠藤　enn dou
+戻る　modo(回到)
+留守　ru su
+おかげさまで(托您的福)
+
+大勢　o-o ze-i
+休憩　kyuu kei
+議論　gi ronn
+足りる　ta(足够)
+会う　a
+
+一緒　i s-sho(一起)
+紅葉　moniji
+偉い　era(了不起)
+喧嘩　kenn ka(吵架，打架)
+一昨日　ototoi(前天)
+
+明後日　asa t-te(后天)
+今晩　konn bann
+今年　kotoshi
+卓球　ta kkyuu(乒乓球)
+昨夜　yuube
+
+遊び　aso
+泳ぐ　oyogu
+水泳　sui ei
+今朝　ke sa
 //#############
 形容词
 一类连用：xxxいー＞xxxくて
