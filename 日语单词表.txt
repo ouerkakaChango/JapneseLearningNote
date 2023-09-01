@@ -863,6 +863,50 @@ xxxぐらい　(xxx左右)
 泳ぐ　oyogu
 水泳　sui ei
 今朝　ke sa
+夏休み　natsu yasu
+
+音楽会/コンサート　onn gaku kai
+佐藤　sa tou
+富士山　fu ji sann 
+撮る to(拍照)
+次　tsugi(下一个)
+
+大学祭　dai gaku sai
+丁度　choudo(恰好，正好)
+シーズン　(season)
+日中　ni c-chu-u
+関連　kann renn
+
+行動　kou dou
+すごい　(了不起)
+その間　so no aida(前些时候)
+オー・エッチ・ピー　(OHP,overhead projector,投影仪)
+スライド　(slide,幻灯片)
+
+驚く　odoro ku(吃惊)
+プレゼンテーション・ソフト(presentation soft 演示软件)
+各国　ka kkoku
+模擬店　mo gi tenn
+出す　da(摆出，拿出，提出) #宿題を出す
+
+好評　kou hyou
+全部　zenn bu
+回る　mawa(转，绕)
+中華　chuu ka
+タイ(泰国)
+
+マレーシア（马来西亚）
+インド　(印度)
+苦しい　kuru(痛苦)
+行う　okona（执行）
+ラーメン(拉面)
+
+地下鉄　chi ka tetsu
+小鳥　ko tori
+空　sora
+飛ぶ　to
+渡る　wata
+
 //#############
 形容词
 一类连用：xxxいー＞xxxくて
