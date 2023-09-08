@@ -188,7 +188,7 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 
 毎晩　mai bann
 読みます　yo (读)
-喫茶店　kixtu sa tenn
+喫茶店　ki ssa tenn
 駅　eki (车站)
 長島　nagashima
 
@@ -805,7 +805,7 @@ xxx頃　goro(大约xxx[时间])
 通信　tsuu shinn
 交通　ko-u tsu-u
 
-調査アンケート(调查问卷)
+調査アンケート chou sa(调查问卷)
 結果　ke kka
 統計　tou kei
 処理　sho ri
@@ -907,6 +907,54 @@ xxxぐらい　(xxx左右)
 飛ぶ　to
 渡る　wata
 
+泳ぐ　oyo
+滑る　sube
+昔　mukashi
+驚き　odoro
+どう　==　いかが／如何　（怎么样）
+
+ky == 空気　読めない　== kuuki yomenai
+掃除　sou ji
+音読　onn doku
+近く　chika
+踊る　odo(跳舞)
+
+xxx便り dayo(消息)
+成田空港　nari ta kuu kou
+初めて　haji (第一次)
+通じる　tsuu
+ショック(shock，冲击)
+
+国際　koku sai
+不安　fu ann
+始まる　haji
+同級生　dou kyuu sei
+工場　kou jyou
+
+見学 kenn gaku(参观学习)
+地域　chii ki
+訪問　hou monn
+クラブ　(club俱乐部)
+アルバイト＝＝バイト　([德]Arbeit,打工)
+
+登る　nobo
+登山客　to zann kyaku
+今度　konn do(这次)
+山頂　sann chou
+景色　keshiki
+
+一生　isshou
+思い出　omo i de
+山頂　sann chou
+景色　keshiki
+思い出　omo i de(回忆)
+
+開く　hira
+作る　tsuku
+期間　ki kann
+主催　shu sai(主办)
+協定校　kyou tei kou(友好学校)
+
 //#############
 形容词
 一类连用：xxxいー＞xxxくて
@@ -920,18 +968,23 @@ xxxぐらい　(xxx左右)
 //##############
 https://zhuanlan.zhihu.com/p/505176551
 动词
-敬体肯定：ます
+敬体肯定：ます(过去：ました)
 敬体否定：ません
 简体肯定： （原型）
 简体否定： ない
 //##############
-xxxに入る(进入xxx)
+「出る」是自动词「出す」是他动词。
+
+自动词没有对象语，而只有动作的主体。
+例如：
+　結果が出る。／结果出来。
+
+而他动词则有对象语，
+它的动作是作用于用「を」格提示宾语上的。
+例如：
+　結論を出す。／拿出结论。
+//##############
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
 https://zhuanlan.zhihu.com/p/96981007
-わwa　おwo
-どう　==　いかが／如何　（怎么样）
-ky == 空気　読めない　== kuuki yomenai
-
-其实就跟すみません一个道理，比如我自己去日本朋友家，家里有没有人すみません，根据场景すみません无数意思坐电车到站了，你在后面让前面人让一下，すみません。掛ける也是但是这里的かける和常用汉字かける不是一回事，我问过日本人，只不过是做一件事或者环境中说かける他们都知道你说的是哪个かける
-
+//##############
 「合コン（联谊）」是「合同コンパ」的简称。「コンパ」表示朋友、伙伴，来自德语的「Kompanie」，也表示公司聚会交际，是由英语的「company」而来，在明治时代，这就作为学生间的隐语而被开始使用。
