@@ -955,6 +955,15 @@ xxx便り dayo(消息)
 主催　shu sai(主办)
 協定校　kyou tei kou(友好学校)
 
+久しぶり　hisa(好久的，久违的)
+夢　yume
+三ヶ月間　sannka getsu kann
+現実　genn jitsu
+近づく　chika du ku(接近)
+
+眠　nemu
+寝る　ne ru
+
 //#############
 形容词
 一类连用：xxxいー＞xxxくて
