@@ -243,7 +243,7 @@ https://cgworld.jp/special-feature/speed-job-2303.html
 一覧　yichi rann
 方　kata
 看護師　kann go shi
-学科　ga-xtu ka
+学科　ga k-ka
 馬鹿　baka
 
 誰　dare
@@ -943,7 +943,7 @@ xxx便り dayo(消息)
 山頂　sann chou
 景色　keshiki
 
-一生　isshou
+一生　i sshou
 思い出　omo i de
 山頂　sann chou
 景色　keshiki
@@ -963,6 +963,40 @@ xxx便り dayo(消息)
 
 眠　nemu
 寝る　ne ru
+話しかけ(搭话)
+通じなかった　tsuu
+一生懸命　i sshou kenn mei
+
+経験　kei kenn
+学校　ga k-kou
+子供　ko domo
+ホスト　(牛郎)
+以心伝心　i shinn denn shinn(心传心，只可意会不可言传)
+
+一生の思い出　([俗语]一生的回忆)
+模擬店　mo gi tenn　
+タクシー(taxi)
+肖像画　shou zou ga
+正面　shou menn
+
+広場　hiro ba
+人民　jinn minn
+会堂　kai dou
+西　nishi
+側　gawa
+
+城 jyou
+楼 rou
+楽しみ　(期待)
+下　shita
+観光　kann kou
+
+チーズ(cheese)
+頑張る　gann ba
+食事　shoku ji
+酒　sake
+机　tsukue
+
 
 //#############
 形容词
@@ -992,6 +1026,28 @@ https://zhuanlan.zhihu.com/p/505176551
 它的动作是作用于用「を」格提示宾语上的。
 例如：
 　結論を出す。／拿出结论。
+//##############
+同学，你好
+
+「出る（でる）」
+「出す（だす）」
+请注意，这是两个不一样的动词。
+
+前者「でる」是自动词、二类动词「出る」
+所以它的变形遵循二类动词的变形规律。
+「出　ます」
+「出　ない」
+「出　て」
+「出　られる」
+
+而「だす」是他动词、一类动词，它的变形遵循一类动词规律
+「出し　ます」
+「出さ　ない」
+「出し　て」
+「出さ　れる」
+
+可以看到，由于变形规则不同，所以后面送出来的假名也是不一样的；
+可以通过送假名来判断读音的~
 //##############
 //日本人为你讲解“あげる”“もらう”“くれる”的区别
 https://zhuanlan.zhihu.com/p/96981007
