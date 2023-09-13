@@ -997,7 +997,84 @@ xxx便り dayo(消息)
 酒　sake
 机　tsukue
 
+デパート（百货商店）
+後ろ　ushi(后)
+右　migi
+左　hidari
+東　higashi
 
+西　nishi
+北　kita
+内　uchi == 家
+外　soto
+向かい　mu(正对面)
+
+向こう　mu(对面)
+南　minami
+角　kado(角落，拐角)
+辺り　ata(附近)
+横 yoko(旁边-横线位置不论远近)
+
+側　soba(旁边)
+隣　tonari(邻)
+脇　waki(非常近的“横”　)
+周り　mawa(周围)
+真ん中　ma nn naga＝＝中心 chuu shinn
+
+今日　kyou
+ベッド　(bed,床)
+庭　niwa
+鶏　niwatori（鸡，“庭鸟”）
+男の子　otoko no ko
+
+女の子　onnna no ko
+山　yama
+海　umi
+湖　mizuumi
+橋　hashi
+
+丈夫　jyou bu(结实的，耐用的)
+鉛筆　enn pitsu
+野球　ya kyuu
+鋏　hasami(剪刀)
+引き出し　hi ki da shi(抽屉)
+
+浅草　asakusa([地名]浅草)
+銀閣寺　kinn kaku ji
+自転車　ji tenn sha
+円山公園　maru yama kou enn(圆山公园)
+船　fune
+
+本棚　honn dana(书架)
+本場　honn ba (真正的，地道的)
+そろそろ　(快到)
+なる　（变成）
+北京ダック　(北京烤鸭)
+
+テレビ番組　bann gumi(电视节目)
+先ず　ma (首先)
+肌　hada(皮肤)
+皮　kawa
+
+お酒　o sake(礼貌说法，有时特指日本酒)
+ビール　(beer)
+いただきます(（吃饭）我开动了)
+口に合う　kuchi ni a u(合口味)
+お腹が空いて　o naka ga su i te
+
+お腹　naka(肚子)
+いっぱい　(饱饱的，满满的)
+きつい　(紧，辛苦)
+靴　kutsu
+急に　kyuu（突然）
+
+寒くなりました(【过去式】变冷)
+相談する　sou dann(商量)
+贈る oku　＝＝　送る
+
+//#############
+「横」「隣」「側」「脇」的区别
+http://www.360doc.com/content/23/0411/12/1076023681_1076023681.shtml
 //#############
 形容词
 一类连用：xxxいー＞xxxくて
@@ -1013,7 +1090,8 @@ https://zhuanlan.zhihu.com/p/505176551
 动词
 敬体肯定：ます(过去：ました)
 敬体否定：ません
-简体肯定： （原型）
+简体肯定： 原型
+简体强调/疑问/原因：原型+んです
 简体否定： ない
 //##############
 「出る」是自动词「出す」是他动词。
