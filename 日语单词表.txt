@@ -1059,7 +1059,7 @@ xxx便り dayo(消息)
 お酒　o sake(礼貌说法，有时特指日本酒)
 ビール　(beer)
 いただきます(（吃饭）我开动了)
-口に合う　kuchi ni a u(合口味)
+口に合い　kuchi ni a i(合口味的)
 お腹が空いて　o naka ga su i te
 
 お腹　naka(肚子)
@@ -1071,6 +1071,32 @@ xxx便り dayo(消息)
 寒くなりました(【过去式】变冷)
 相談する　sou dann(商量)
 贈る oku　＝＝　送る
+今週　konn shuu
+生きた i
+
+提出　tei shutsu
+一番　ichi bann(最)
+世界　se kai
+混む　ko
+紹介　shou kai
+
+お昼　hiru(午饭)
+暖かい　atata
+夕飯　yuu hann(晚饭)
+紅茶　kou cha
+サラダ　(salad 沙拉)
+
+野菜　ya sai(蔬菜)
+チャーハン　(炒饭)
+水キョーザ sui(水饺)
+ワンタン(馄饨)
+タンタンメン ＝＝　担々麵(担担面)
+
+日本酒　ni honn shu
+人口　jinn kou
+楽　raku
+山下　yama shita
+
 
 //#############
 「横」「隣」「側」「脇」的区别
