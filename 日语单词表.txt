@@ -848,7 +848,7 @@ xxxぐらい　(xxx左右)
 会う　a
 
 一緒　i s-sho(一起)
-紅葉　moｍiji　
+紅葉　moｍiji/紅葉　kou you
 偉い　era(了不起)
 喧嘩　kenn ka(吵架，打架)
 一昨日　ototoi(前天)
@@ -1096,7 +1096,24 @@ xxx便り dayo(消息)
 人口　jinn kou
 楽　raku
 山下　yama shita
+教授　kyou jyu
 
+出迎え　de muka e
+新米　shinn mai(新手)
+半島　hann tou
+人形　ninn gyou(玩偶)
+残業　zann gyou(加班)
+
+心配　shinn pai(担心)
+訓読　kunn doku
+入り口　i ri guchi
+宛先　ate saki(目标)
+勉める　tsuto(学习)
+
+気 ki(精神)
+風 kaze（风）
+台所　daido koro(厨房)
+お菓子　o ka shi(甜点)
 
 //#############
 「横」「隣」「側」「脇」的区别
